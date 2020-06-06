@@ -1,0 +1,6 @@
+walkspeed = true
+while wait() do
+if walkspeed then
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 100 --change this for different walkspeed
+end
+end
